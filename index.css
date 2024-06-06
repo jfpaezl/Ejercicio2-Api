@@ -52,7 +52,7 @@ form{
     background-color: #4CAF50;
     color: white;
     cursor: pointer;
-    width: 100%;
+    width: fit-content;
 }
 
 #message{
